@@ -1,0 +1,28 @@
+[angle1]
+  1  2 3
+[angle2]
+  2  3 4
+[angle3]
+  3  4 5
+[angle4]
+  4  5 6
+[angle5]
+ 6 10 11 
+[angle6]
+ 10 11 14 
+[angle7]
+ 11 14 15 
+[angle8]
+ 10 11 12 
+[angle9]
+ 11 12 13 
+[angle10]
+ 5 6 10  
+[angle11]
+ 5 6 7  
+[angle12]
+ 6 7 8  
+[angle13]
+ 7 6 10  
+[angle14]
+11 12 14

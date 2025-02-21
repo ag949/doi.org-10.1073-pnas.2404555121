@@ -1,0 +1,28 @@
+[bond1]
+  1  2
+[bond2]
+  2  3
+[bond3]
+  3  4
+[bond4]
+  4  5
+[bond5]
+  5  6
+[bond6]
+  6  7
+[bond7]
+  7  8
+[bond8]
+  8  9
+[bond9]
+  6  10
+[bond11]
+ 10 11
+[bond12]
+ 11 12
+[bond13]
+ 12 13
+[bond14]
+ 11 14
+[bond14]
+ 14 15
